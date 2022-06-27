@@ -1,10 +1,10 @@
 # OVER THE HORISEON
 
-https://joetrops5.github.io/HWAssignment1/
+<a href= "https://joetrops5.github.io/HWAssignment1/" target="blank" >  
 
-https://github.com/joetrops5/HWAssignment1
+<a href= "https://github.com/joetrops5/HWAssignment1" target="blank" >
 
-![screenshot](\pictures\DeployedScreenshot.png)
+<img src="DeployedScreenshot.png" alt="HoriseonWebsite" >
 
 The following assignment was to clean up this code and comment
 on the changes. 
