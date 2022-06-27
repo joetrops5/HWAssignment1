@@ -4,6 +4,8 @@ https://joetrops5.github.io/HWAssignment1/
 
 https://github.com/joetrops5/HWAssignment1
 
+![screenshot](pictures/Screenshot%20(2).png)
+
 The following assignment was to clean up this code and comment
 on the changes. 
 
