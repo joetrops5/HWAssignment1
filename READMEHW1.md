@@ -1,8 +1,8 @@
 # OVER THE HORISEON
 
-<a href= "https://joetrops5.github.io/HWAssignment1/" target="blank" ></a>
+https://joetrops5.github.io/HWAssignment1
 
-<a href= "https://github.com/joetrops5/HWAssignment1" target="blank" ></a>
+https://github.com/joetrops5/HWAssignment1
 
 <img src=".//pictures/DeployedScreenshot.png" alt="HoriseonWebsite" ></img>
 
