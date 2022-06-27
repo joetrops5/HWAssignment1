@@ -1,10 +1,10 @@
-# HWAssignment1
+# OVER THE HORISEON
 
 https://joetrops5.github.io/HWAssignment1/
 
 https://github.com/joetrops5/HWAssignment1
 
-![screenshot](pictures/Screenshot%20(2).png)
+![screenshot](DeployedScreenshot.png)
 
 The following assignment was to clean up this code and comment
 on the changes. 
@@ -22,6 +22,10 @@ of different portions of text and images together.
 I added the <title> to horiseon as well as alt attributes to the images.
 The alt attributes work as placeholders incase the images are not working;
 they are used to describe the image on the page. 
+
+This Webpage is now fully responsive when the page shrinks and no text 
+overlaps due to the addition of the media query. 
+
  
 
   
