@@ -130,3 +130,19 @@ p {
 .footer h2 {
     font-size: 20px;
 }
+
+/*added media query "needs to be revised*/
+@media screen and (max-width: 768px) { 
+    .header { 
+        width:100%;
+    }
+    .background { 
+        width:100%;
+    }
+    .main { 
+        width:100%; 
+    }
+    .aside { 
+        width:100%;
+    }
+}
