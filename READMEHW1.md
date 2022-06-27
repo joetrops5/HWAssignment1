@@ -1,5 +1,9 @@
 # HWAssignment1
 
+https://joetrops5.github.io/HWAssignment1/
+
+https://github.com/joetrops5/HWAssignment1
+
 The following assignment was to clean up this code and comment
 on the changes. 
 
